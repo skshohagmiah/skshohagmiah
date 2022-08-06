@@ -1,3 +1,4 @@
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/skshohagmiah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100030517564888)  
 ### Hi there 👋, I'm Shohag Miah
 #### Front End Web Developer
 ![Front End Web Developer](https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/297512446_802170767476835_4169599678752139405_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEAwfuV9Ji8RsUSOJDK8zyGbv4afhbjUKRu_hp-FuNQpNtgJYSVVY3qVsDDzAt-V9hcJPFWhe1iQgmlQshjxxfu&_nc_ohc=nMqNtGUnh48AX-wPCzd&_nc_ht=scontent.fdac41-1.fna&oh=00_AT_3LmpSbwJut0rzKacaG7q7RTkkzWJ70AFPzMRos4suBA&oe=62F41CE6)
@@ -12,5 +13,5 @@ Skills:   HTML / CSS/ JAVASCRIPT/ TAILWIND CSS/ REACT JS
 - 💬 Ask me about Front End Web Development 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/skshohagmiah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100030517564888)  
+
 
