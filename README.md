@@ -1,12 +1,12 @@
 
 ### Hi there 👋, I'm Shohag Miah
 #### Front End Web Developer
-I'm a Front End Web Developer who is passionate about computer programming. I want to do something big in programming world that's my big dream. Now I work with Front End Web Development and I want to do a kind of Projects that have to be world class or as good as possible. And beside that I also want to learn other programming things and work with that.
+I'm a Front End Web Developer who is passionate about computer programming. I want to do something big in programming world that's my big dream. Now I work with Front End Web Development and I want to do some kind of Projects that have to be world class or as good as possible. And beside that I also want to learn other programming things and work with that.
 
-Skills:   HTML / CSS/ JAVASCRIPT/ TAILWIND CSS/ REACT JS
+Skills:   HTML / CSS/ JAVASCRIPT/ TAILWIND CSS/ REACT JS/ NEXT JS/ PRISMA/ AUTH JS/ NEXT-AUTH/ TAPYSCRIPT
 
-- 🔭 I’m currently working on react ecommerce app 
-- 🌱 I’m currently learning redux.js and node.js 
+- 🔭 I’m currently working on a nextjs fullstack hobby Sass project
+- 🌱 I’m currently learning next.js and node.js 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Front End Web Development 
 
