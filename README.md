@@ -1,19 +1,52 @@
+# Hi there 👋, I'm Shohag Miah
+## Full Stack Software Engineer
 
-### Hi there 👋, I'm Shohag Miah
-#### Web Developer
-I'm a  Web Developer who is passionate about computer programming. I want to do something big in programming world that's my big dream. Now I work with Front End Web Development and I want to do some kind of Projects that have to be world class or as good as possible. And beside that I also want to learn other programming things and work with that.
+I'm a passionate Full Stack Software Engineer with expertise in modern web technologies. I'm committed to building scalable, high-performance applications and constantly expanding my technical knowledge. Currently mastering DSA and advanced problem-solving techniques to further enhance my engineering capabilities.
 
-Skills:   HTML / CSS / JAVASCRIPT / TAILWIND CSS / REACT JS / NEXT JS / PRISMA / AUTH JS / NEXT-AUTH / TYPESCRIPT / Node.js / Express.js
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on a nextjs fullstack hobby Sass project
-- 🌱 I’m currently learning python and django 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Front End Web Development 
+**Frontend:**
+- React.js
+- Next.js
+- TypeScript
+- Tailwind CSS
+- HTML/CSS
+- JavaScript
 
+**Backend:**
+- Node.js
+- Express.js
+- Go
+- Prisma
+- Authentication (Auth.js, Next-Auth)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/skshohagmiah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100030517564888)  
+**DevOps & Tools:**
+- Docker
+- CI/CD
+- Kubernetes
+- Git & GitHub
 
+### 🔭 Currently Working On
+- A Next.js fullstack SaaS project
+- Mastering Data Structures & Algorithms
+- Enhancing problem-solving skills
 
+### 🌱 Currently Learning
+- Advanced system design patterns
+- Microservice architecture
+- Performance optimization techniques
 
+### 👯 I'm Looking To Collaborate On
+- Open source projects
+- Innovative web applications
+- Challenging engineering problems
 
+### 💬 Ask Me About
+- Full stack development
+- System architecture
+- DevOps practices
+- Performance optimization
 
+### 📫 Connect With Me
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/skshohagmiah)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100030517564888)
