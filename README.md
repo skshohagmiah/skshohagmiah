@@ -4,7 +4,7 @@
 
 *Building scalable, high-performance applications that make a difference*
 
-**LinkedIn:** [Connect with me]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sk-shohag-miah/)) | **Email:** [shohagmiah2100@gmail.com](mailto:shohagmiah2100@gmail.com)
+**LinkedIn:** [Connect with me](https://www.linkedin.com/in/sk-shohag-miah/) | **Email:** [shohagmiah2100@gmail.com](mailto:shohagmiah2100@gmail.com)
 
 ---
 
@@ -113,7 +113,7 @@ I'm always excited to work on:
 
 ## 📫 Let's Connect
 
-**LinkedIn:** [Connect with me](https://linkedin.com/in/your-profile) | **Twitter:** [@your-handle](https://twitter.com/your-handle) | **Email:** [shohagmiah2100@gmail.com](mailto:shohagmiah2100@gmail.com) | **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+**LinkedIn:** [Connect with me](https://www.linkedin.com/in/sk-shohag-miah/) | **Twitter:** [@your-handle](https://twitter.com/your-handle) | **Email:** [shohagmiah2100@gmail.com](mailto:shohagmiah2100@gmail.com) | **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
 
 **📧 Email:** shohagmiah2100@gmail.com  
 **🌐 Portfolio:** [your-portfolio.com](https://your-portfolio.com)
