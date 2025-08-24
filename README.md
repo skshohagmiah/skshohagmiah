@@ -1,14 +1,10 @@
 # Hi there 👋, I'm Shohag Miah
 
-<div align="center">
-  
 ### Full Stack Software Engineer | Open Source Enthusiast | SaaS Creator
 
 *Building scalable, high-performance applications that make a difference*
 
-**GitHub:** [@your-username](https://github.com/your-username) | **LinkedIn:** [Connect with me](https://linkedin.com/in/your-profile) | **Email:** [your.email@example.com](mailto:your.email@example.com)
-
-</div>
+**GitHub:** [@shohagmiah2100](https://github.com/shohagmiah2100) | **LinkedIn:** [Connect with me](https://linkedin.com/in/your-profile) | **Email:** [shohagmiah2100@gmail.com](mailto:shohagmiah2100@gmail.com)
 
 ---
 
@@ -43,21 +39,15 @@ Currently sharpening my **Data Structures & Algorithms** skills while building *
 **NoSQL:** MongoDB | Document-based Storage
 **Caching:** Redis | Performance Optimization
 
-</div>
-
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|--------|
 | **🎯 Seentics** | Open-source Analytics & Workflow Automation Platform | React, Node.js, PostgreSQL, Docker | [Demo](link) • [Repo](link) |
 | **📊 Project Name** | Brief description of your second best project | Tech1, Tech2, Tech3 | [Live](link) • [Code](link) |
 | **⚡ Project Name** | Brief description of your third best project | Tech1, Tech2, Tech3 | [Demo](link) • [Repo](link) |
-
-</div>
 
 ---
 
@@ -104,7 +94,7 @@ I'm always excited to work on:
 
 ---
 
-## 🎯 2024 Goals
+## 🎯 2025 Goals
 
 - [ ] Complete 300 LeetCode problems
 - [ ] Launch Seentics v1.0 with 1000+ users
@@ -125,14 +115,10 @@ I'm always excited to work on:
 
 ## 📫 Let's Connect
 
-<div align="center">
+**LinkedIn:** [Connect with me](https://linkedin.com/in/your-profile) | **Twitter:** [@your-handle](https://twitter.com/your-handle) | **Email:** [shohagmiah2100@gmail.com](mailto:shohagmiah2100@gmail.com) | **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
 
-**LinkedIn:** [Connect with me](https://linkedin.com/in/your-profile) | **Twitter:** [@your-handle](https://twitter.com/your-handle) | **Email:** [your.email@example.com](mailto:your.email@example.com) | **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
-
-**📧 Email:** your.email@example.com  
+**📧 Email:** shohagmiah2100@gmail.com  
 **🌐 Portfolio:** [your-portfolio.com](https://your-portfolio.com)
-
-</div>
 
 ---
 
