@@ -122,10 +122,6 @@ I'm always excited to work on:
 
 ---
 
-<div align="center">
-
 ### "Code is poetry written in logic" 
 
 *Thanks for visiting! Let's build something amazing together* 🚀
-
-</div>
