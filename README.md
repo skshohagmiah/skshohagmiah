@@ -18,8 +18,6 @@ Currently sharpening my **Data Structures & Algorithms** skills while building *
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ### Frontend
 **Languages & Frameworks:** React.js | Next.js | TypeScript | JavaScript | HTML/CSS
 **Styling:** Tailwind CSS | CSS-in-JS | Responsive Design
