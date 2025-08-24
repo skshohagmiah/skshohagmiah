@@ -4,7 +4,7 @@
 
 *Building scalable, high-performance applications that make a difference*
 
-**GitHub:** [@shohagmiah2100](https://github.com/shohagmiah2100) | **LinkedIn:** [Connect with me](https://linkedin.com/in/your-profile) | **Email:** [shohagmiah2100@gmail.com](mailto:shohagmiah2100@gmail.com)
+**LinkedIn:** [Connect with me]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sk-shohag-miah/)) | **Email:** [shohagmiah2100@gmail.com](mailto:shohagmiah2100@gmail.com)
 
 ---
 
