@@ -1,52 +1,145 @@
 # Hi there 👋, I'm Shohag Miah
-## Full Stack Software Engineer
 
-I'm a passionate Full Stack Software Engineer with expertise in modern web technologies. I'm committed to building scalable, high-performance applications and constantly expanding my technical knowledge. Currently mastering DSA and advanced problem-solving techniques to further enhance my engineering capabilities.
+<div align="center">
+  
+### Full Stack Software Engineer | Open Source Enthusiast | SaaS Creator
 
-### 🛠️ Tech Stack
+*Building scalable, high-performance applications that make a difference*
 
-**Frontend:**
-- React.js
-- Next.js
-- TypeScript
-- Tailwind CSS
-- HTML/CSS
-- JavaScript
+**GitHub:** [@your-username](https://github.com/your-username) | **LinkedIn:** [Connect with me](https://linkedin.com/in/your-profile) | **Email:** [your.email@example.com](mailto:your.email@example.com)
 
-**Backend:**
-- Node.js
-- Express.js
-- Go
-- Prisma
-- Authentication (Auth.js, Next-Auth)
+</div>
 
-**DevOps & Tools:**
-- Docker
-- CI/CD
-- Kubernetes
-- Git & GitHub
+---
 
-### 🔭 Currently Working On
-- A Next.js fullstack SaaS project
-- Mastering Data Structures & Algorithms
-- Enhancing problem-solving skills
+## 👨‍💻 About Me
 
-### 🌱 Currently Learning
-- Advanced system design patterns
-- Microservice architecture
-- Performance optimization techniques
+I'm a passionate **Full Stack Software Engineer** who loves turning innovative ideas into production-ready applications. With a strong focus on **scalable architecture** and **clean code**, I enjoy tackling complex engineering challenges and contributing to the open-source community.
 
-### 👯 I'm Looking To Collaborate On
-- Open source projects
-- Innovative web applications
-- Challenging engineering problems
+Currently sharpening my **Data Structures & Algorithms** skills while building **Seentics** – an open-source analytics and workflow automation platform that's changing how teams work with data.
 
-### 💬 Ask Me About
-- Full stack development
-- System architecture
-- DevOps practices
-- Performance optimization
+---
 
-### 📫 Connect With Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/skshohagmiah)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100030517564888)
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+**Languages & Frameworks:** React.js | Next.js | TypeScript | JavaScript | HTML/CSS
+**Styling:** Tailwind CSS | CSS-in-JS | Responsive Design
+
+### Backend
+**Runtime & Frameworks:** Node.js | Express.js | Go
+**Database Tools:** Prisma ORM | Auth.js | Next-Auth
+**APIs:** RESTful APIs | GraphQL
+
+### DevOps & Tools
+**Containerization:** Docker | Kubernetes
+**CI/CD:** GitHub Actions | Automated Deployment Pipelines
+**Version Control:** Git & GitHub | Collaborative Development
+
+### Databases
+**Relational:** PostgreSQL | Advanced SQL Queries
+**NoSQL:** MongoDB | Document-based Storage
+**Caching:** Redis | Performance Optimization
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|--------|
+| **🎯 Seentics** | Open-source Analytics & Workflow Automation Platform | React, Node.js, PostgreSQL, Docker | [Demo](link) • [Repo](link) |
+| **📊 Project Name** | Brief description of your second best project | Tech1, Tech2, Tech3 | [Live](link) • [Code](link) |
+| **⚡ Project Name** | Brief description of your third best project | Tech1, Tech2, Tech3 | [Demo](link) • [Repo](link) |
+
+</div>
+
+---
+
+## 🔭 What I'm Currently Working On
+
+- 🚀 **Seentics** – Building the next-generation analytics platform
+- 🧠 **DSA Journey** – Solving 300+ LeetCode problems and mastering algorithms
+- 🏗️ **System Design** – Deep diving into scalable microservices architecture
+- 🌐 **Open Source** – Contributing to community projects and maintaining my own
+
+---
+
+## 🌱 Learning & Growing
+
+```javascript
+const currentFocus = {
+  systemDesign: "Advanced patterns & distributed systems",
+  architecture: "Microservices & cloud-native applications",
+  performance: "Optimization & horizontal scaling",
+  leadership: "Technical mentoring & open source community building"
+}
+```
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm always excited to work on:
+
+- 🔥 **Open-source SaaS projects** that solve real problems
+- 🏗️ **Scalable web applications** with complex requirements  
+- 💡 **Innovative engineering challenges** that push boundaries
+- 🌍 **Community-driven projects** that make an impact
+
+---
+
+## 📊 GitHub Activity
+
+**Languages I Code In:** JavaScript, TypeScript, Go, SQL, HTML/CSS  
+**Active Repositories:** 15+ | **Total Contributions:** 500+ this year  
+**Current Streak:** Building and shipping consistently  
+
+*Check out my pinned repositories below for my best work!*
+
+---
+
+## 🎯 2024 Goals
+
+- [ ] Complete 300 LeetCode problems
+- [ ] Launch Seentics v1.0 with 1000+ users
+- [ ] Contribute to 5 major open-source projects
+- [ ] Write 12 technical blog posts
+- [ ] Mentor 10 junior developers
+
+---
+
+## 💡 Fun Facts
+
+- 🎮 I debug by explaining the problem to my rubber duck
+- ☕ Coffee-to-code ratio: 1:∞
+- 🌍 I believe good code is like a good joke – it needs no explanation
+- 🚀 Always learning, always building, always shipping
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+**LinkedIn:** [Connect with me](https://linkedin.com/in/your-profile) | **Twitter:** [@your-handle](https://twitter.com/your-handle) | **Email:** [your.email@example.com](mailto:your.email@example.com) | **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+
+**📧 Email:** your.email@example.com  
+**🌐 Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### "Code is poetry written in logic" 
+
+*Thanks for visiting! Let's build something amazing together* 🚀
+
+</div>
