@@ -28,12 +28,12 @@ Currently sharpening my **Data Structures & Algorithms** skills while building *
 **APIs:** RESTful APIs | GraphQL
 
 ### DevOps & Tools
-**Containerization:** Docker | Kubernetes
+**Containerization:** Docker
 **CI/CD:** GitHub Actions | Automated Deployment Pipelines
 **Version Control:** Git & GitHub | Collaborative Development
 
 ### Databases
-**Relational:** PostgreSQL | Advanced SQL Queries
+**Relational:** PostgreSQL 
 **NoSQL:** MongoDB | Document-based Storage
 **Caching:** Redis | Performance Optimization
 
@@ -44,8 +44,7 @@ Currently sharpening my **Data Structures & Algorithms** skills while building *
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|--------|
 | **🎯 Seentics** | Open-source Analytics & Workflow Automation Platform | React, Node.js, PostgreSQL, Docker | [Demo](link) • [Repo](link) |
-| **📊 Project Name** | Brief description of your second best project | Tech1, Tech2, Tech3 | [Live](link) • [Code](link) |
-| **⚡ Project Name** | Brief description of your third best project | Tech1, Tech2, Tech3 | [Demo](link) • [Repo](link) |
+| **📊 Clusterkit** | Distributed System Clustering Library | GO, Shell | [Live](link) • [Code](link) |
 
 ---
 
@@ -55,19 +54,6 @@ Currently sharpening my **Data Structures & Algorithms** skills while building *
 - 🧠 **DSA Journey** – Solving 300+ LeetCode problems and mastering algorithms
 - 🏗️ **System Design** – Deep diving into scalable microservices architecture
 - 🌐 **Open Source** – Contributing to community projects and maintaining my own
-
----
-
-## 🌱 Learning & Growing
-
-```javascript
-const currentFocus = {
-  systemDesign: "Advanced patterns & distributed systems",
-  architecture: "Microservices & cloud-native applications",
-  performance: "Optimization & horizontal scaling",
-  leadership: "Technical mentoring & open source community building"
-}
-```
 
 ---
 
@@ -82,34 +68,6 @@ I'm always excited to work on:
 
 ---
 
-## 📊 GitHub Activity
-
-**Languages I Code In:** JavaScript, TypeScript, Go, SQL, HTML/CSS  
-**Active Repositories:** 15+ | **Total Contributions:** 500+ this year  
-**Current Streak:** Building and shipping consistently  
-
-*Check out my pinned repositories below for my best work!*
-
----
-
-## 🎯 2025 Goals
-
-- [ ] Complete 300 LeetCode problems
-- [ ] Launch Seentics v1.0 with 1000+ users
-- [ ] Contribute to 5 major open-source projects
-- [ ] Write 12 technical blog posts
-- [ ] Mentor 10 junior developers
-
----
-
-## 💡 Fun Facts
-
-- 🎮 I debug by explaining the problem to my rubber duck
-- ☕ Coffee-to-code ratio: 1:∞
-- 🌍 I believe good code is like a good joke – it needs no explanation
-- 🚀 Always learning, always building, always shipping
-
----
 
 ## 📫 Let's Connect
 
