@@ -2,7 +2,7 @@
 
 **Full Stack Developer building distributed systems in Go**
 
-Currently at [Appifylab](https://appifylab.com) | Open source contributor | Self-taught engineer
+Currently at [Appifylab](https://appifylab.com) | Open source contributor | Self-taught software engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-shohag-miah/)
 [![Email](https://img.shields.io/badge/Email-shohagmiah2100%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shohagmiah2100@gmail.com)
@@ -47,13 +47,13 @@ Clustering library for building fault-tolerant Go applications. Provides node di
 
 ## 💼 Work Experience
 
-**Full Stack Developer @ Appifylab** `Dec 2024 – Present`
+**Full Stack Developer @ Appifylab** `5 Jan 2026 – Present`
 
 Building web applications with React, Next.js, Node.js and Go
 
 ---
 
-**Software Engineer @ Techforing Ltd** `Aug 2024 – Nov 2024`
+**Software Engineer @ Techforing Ltd** `Aug 2024 – Jan 2026`
 
 - Improved HRMS application performance by 20% through code splitting and React Query caching
 - Built RESTful APIs in Go for internal tools
