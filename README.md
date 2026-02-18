@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shohag Miah
+# 👋 Hi, I'm Shohag
 
 **Full Stack Developer building distributed systems in Go**
 
@@ -26,22 +26,6 @@ Open-source analytics and workflow automation platform. Real-time event processi
 **Tech:** Go, MongoDB, TimescaleDB, Redis, Microservices
 
 **Features:** Event ingestion, analytics dashboard, workflow engine, funnel tracking
-
----
-
-### [Flin](https://github.com/skshohagmiah/flin)
-High-performance distributed data platform combining key-value store, message queue, and stream processing.
-
-**Tech:** Go, BadgerDB, Raft Consensus, Binary Protocol
-
-**Performance:** Benchmarked on local machine with synthetic workloads for development testing
-
----
-
-### [Clusterkit](https://github.com/skshohagmiah/clusterkit)
-Clustering library for building fault-tolerant Go applications. Provides node discovery, health checks, and automatic failover.
-
-**Tech:** Go, Gossip Protocol, Memberlist
 
 ---
 
