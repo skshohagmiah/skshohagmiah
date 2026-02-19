@@ -26,9 +26,6 @@ Self-taught software engineer with 2+ years of professional experience building 
 **[CacheGrid](https://github.com/skshohagmiah/cachegrid)** — Distributed in-process cache for Go. Embed it or run standalone. Gossip-based, zero external dependencies.
 `Go` `gRPC` `Consistent Hashing` `SWIM Protocol`
 
-**[BucketDB](https://github.com/skshohagmiah/bucketdb)** — Distributed object storage with replication, erasure coding, and S3-compatible API.
-`Go` `gRPC` `Erasure Coding`
-
 ---
 
 ## Tech Stack
