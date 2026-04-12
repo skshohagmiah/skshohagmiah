@@ -11,7 +11,7 @@ Currently at [Appifylab](https://appifylab.com) — Previously at Techforing Ltd
 
 ## About Me
 
-Self-taught software engineer with 2+ years of professional experience building web apps and SaaS products. Currently focused on distributed systems in Go, practicing DSA, and deep-diving into system design — consensus algorithms, replication, storage engines. I like building tools that solve real infrastructure problems and open-sourcing them.
+Self-taught software engineer with 3 years of professional experience building web apps and SaaS products. Currently focused on distributed systems in Go, practicing DSA, and deep-diving into system design — consensus algorithms, replication, storage engines. I like building tools that solve real infrastructure problems and open-sourcing them.
 
 ---
 
